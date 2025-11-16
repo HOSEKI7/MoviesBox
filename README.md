@@ -1,4 +1,4 @@
-# MoviesBox-with-bun-express
+# MoviesBox
 
 Streaming platform(fake) and film list web base, connect and fetch Movies data from Database.
 Build with HTML, CSS, JS, Bun with Express and MYSQL. Focus learning to make an interactive and good looking IU and data fetching from database.
